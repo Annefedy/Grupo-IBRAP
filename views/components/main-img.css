@@ -1,0 +1,31 @@
+.main-img {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    flex-direction: column;
+    
+}
+
+.logo01 {
+    width: 400px;
+    height: 350px;
+    
+
+}
+.logo02 {
+    width: 200px;
+    height: 30px;
+    align-items: center;
+  }
+  .logo03 {
+    width: 80px;
+  }
